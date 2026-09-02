@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (21dp to 87dp) -->
+    <!-- Calendar / Study Planner Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,28h40c3.3,0 6,2.7 6,6v40c0,3.3 -2.7,6 -6,6H34c-3.3,0 -6,-2.7 -6,-6V34c0,-3.3 2.7,-6 6,-6z" />
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M28,34c0,-3.3 2.7,-6 6,-6h40c3.3,0 6,2.7 6,6v10H28V34z" />
+    <!-- Clock / Check indicator -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M54,50c-7.7,0 -14,6.3 -14,14s6.3,14 14,14 14,-6.3 14,-14 -6.3,-14 -14,-14zm5,15.5l-6,-3.5V56h2v5.2l5,2.9 -1,1.4z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,24h4v6h-4zm28,0h4v6h-4z" />
+</vector>
